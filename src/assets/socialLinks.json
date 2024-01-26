@@ -1,0 +1,26 @@
+[
+  {
+    "name": "微信",
+    "icon": "/images/icon/wechat.png",
+    "tip": "微信",
+    "url": "https://doyouloveme.top/wechat/wechat.png"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/23323965"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "Q我吧",
+    "url": "https://res.abeim.cn/api/qq/?qq=2632394631"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:ckprotocol@qq.com"
+  }
+]

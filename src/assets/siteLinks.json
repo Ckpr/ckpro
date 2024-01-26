@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Cloud",
+    "name": "CloudFlare",
+    "link": "https://dash.cloudflare.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://y.qq.com/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://doyouloveme.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日油价",
+    "link": "https://www.icauto.com.cn/oil/price_0_2.html"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "文心一言",
+    "link": "https://yiyan.baidu.com/"
+  }
+]
